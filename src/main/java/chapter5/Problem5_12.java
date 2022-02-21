@@ -8,6 +8,8 @@ import org.junit.Test;
  * All of the generated number should have equal probability
  * What is the run time of your algorithm
  */
+
+// Still need to work on this
 public class Problem5_12 {
 
     protected int random()
